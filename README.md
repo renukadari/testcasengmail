@@ -1,2 +1,2 @@
 # testcasengmail
-MNanual Test cases written on Gmail Registration
+Manual Test cases written on Gmail Registration
